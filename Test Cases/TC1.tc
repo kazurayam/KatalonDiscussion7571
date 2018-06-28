@@ -3,6 +3,6 @@
    <description></description>
    <name>TC1</name>
    <tag></tag>
-   <comment></comment>
+   <comment>contentType=$value</comment>
    <testCaseGuid>28bb8de9-1364-4351-a9a1-05426abbbb42</testCaseGuid>
 </TestCaseEntity>
